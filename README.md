@@ -8,4 +8,5 @@ This project includes the following features.
 . Custom header<br>
 . Dialog Fragment, retained during screen roation<br>
 . equal sized sticky buttons placed at bottom<br>
-. Scrolling View fixed, when content is too large
+. Scrolling View fixed, when content is too large<br>
+. Added CardViews
