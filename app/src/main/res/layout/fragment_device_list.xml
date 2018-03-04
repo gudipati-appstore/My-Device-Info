@@ -9,6 +9,7 @@
         android:orientation="vertical">
 
         <android.support.v7.widget.CardView
+            style="@style/cardview"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_margin="10dp">
@@ -17,14 +18,14 @@
                 android:id="@+id/button_about_mobile"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:layout_margin="15dp"
-                android:background="#082489"
+                style="@style/button_blue"
                 android:text="About Mobile"
-                android:textColor="#FFFFFF" />
+                />
 
         </android.support.v7.widget.CardView>
 
         <android.support.v7.widget.CardView
+            style="@style/cardview"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_margin="10dp">
@@ -33,14 +34,14 @@
                 android:id="@+id/button_about_latop"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:layout_margin="15dp"
-                android:background="#082489"
+                style="@style/button_blue"
                 android:text="About Laptop"
-                android:textColor="#FFFFFF" />
+                />
 
         </android.support.v7.widget.CardView>
 
         <android.support.v7.widget.CardView
+            style="@style/cardview"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_margin="10dp">
@@ -49,14 +50,14 @@
                 android:id="@+id/button_about_hardcase"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:layout_margin="15dp"
-                android:background="#082489"
+                style="@style/button_blue"
                 android:text="About HardCase"
-                android:textColor="#FFFFFF" />
+                 />
 
         </android.support.v7.widget.CardView>
 
         <android.support.v7.widget.CardView
+            style="@style/cardview"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_margin="10dp">
@@ -65,14 +66,13 @@
                 android:id="@+id/button_about_monitor"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:layout_margin="15dp"
-                android:background="#082489"
-                android:text="About lcd monitor"
-                android:textColor="#FFFFFF" />
+                style="@style/button_blue"
+                android:text="About lcd monitor" />
 
         </android.support.v7.widget.CardView>
 
         <android.support.v7.widget.CardView
+            style="@style/cardview"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_margin="10dp">
@@ -81,14 +81,13 @@
                 android:id="@+id/button_about_tv"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:layout_margin="15dp"
-                android:background="#082489"
-                android:text="About samsung tv"
-                android:textColor="#FFFFFF" />
+                style="@style/button_blue"
+                android:text="About samsung tv" />
 
         </android.support.v7.widget.CardView>
 
         <android.support.v7.widget.CardView
+            style="@style/cardview"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_margin="10dp">
@@ -97,10 +96,8 @@
                 android:id="@+id/button_about_amazon_firetv"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:layout_margin="15dp"
-                android:background="#082489"
-                android:text="About amazon firestick tv"
-                android:textColor="#FFFFFF" />
+                style="@style/button_blue"
+                android:text="About amazon firestick tv" />
 
         </android.support.v7.widget.CardView>
 

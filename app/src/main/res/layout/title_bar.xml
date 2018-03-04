@@ -14,7 +14,7 @@
         android:textSize="20sp"
         android:textStyle="bold"
         android:text="@string/my_device_info"
-        android:textColor="@color/colorPrimaryDark" />
+        android:textColor="#082489" />
 
     <ImageView
         android:id="@+id/imageview01"

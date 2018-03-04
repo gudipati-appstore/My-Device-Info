@@ -12,4 +12,19 @@
 
     </style>
 
+    <style name="button_blue">
+        <item name = "android:layout_margin">15dp</item>
+        <item name = "android:background">#082489</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+
+    <style name="button_blue.singlechoice">
+        <item name = "android:layout_margin">10dp</item>
+    </style>
+
+    <style name="cardview">
+        <item name = "android:layout_margin">10dp</item>
+        <item name = "cardElevation">10dp</item>
+    </style>
+
 </resources>
