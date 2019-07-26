@@ -1,7 +1,7 @@
 package com.example.gkr.myapplication.activity;
 
 import android.os.Bundle;
-import android.support.v7.app.AlertDialog;
+import androidx.appcompat.app.AlertDialog;
 
 import com.example.gkr.myapplication.BaseActivity;
 import com.example.gkr.myapplication.R;
