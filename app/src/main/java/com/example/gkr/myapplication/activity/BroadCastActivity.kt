@@ -19,6 +19,10 @@ class BroadCastActivity : BaseActivity() {
 
         val extras = intent.extras
         broadcast_event_text = "No Broadcast event recevied"
+        broadcast_event_text = "No Broadcast event recevied"
+        broadcast_event_text = "No Broadcast event recevied"
+        broadcast_event_text = "No Broadcast event recevied"
+        broadcast_event_text = "No Broadcast event recevied"
         if (extras != null) {
             broadcast_event_text = extras.getString("broadcast_event_info")
         }
